@@ -16,6 +16,24 @@
       "revId": "9da63f6e438d692a934e1ccbb0c07a3e96ad3b35",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1aca2d91_d686e264",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 883
+      },
+      "writtenOn": "2013-07-29T07:19:49Z",
+      "side": 1,
+      "message": "//d is a variable",
+      "parentUuid": "1aca2d91_d6514210",
+      "revId": "9da63f6e438d692a934e1ccbb0c07a3e96ad3b35",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
