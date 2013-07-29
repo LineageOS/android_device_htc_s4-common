@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1aca2d91_d6514210",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 56,
+      "author": {
+        "id": 5531
+      },
+      "writtenOn": "2013-07-29T05:32:23Z",
+      "side": 1,
+      "message": "Have you tried specifying this explicitly: wlan0 ? \nI don\u0027t have equipment to test this",
+      "revId": "9da63f6e438d692a934e1ccbb0c07a3e96ad3b35",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
