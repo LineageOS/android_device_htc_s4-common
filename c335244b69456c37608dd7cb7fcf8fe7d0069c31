@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a4dcd0f_b01fbe5a",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2013-10-27T22:35:32Z",
+      "side": 1,
+      "message": "This isn\u0027t actually a radio lib, you don\u0027t need to change this.",
+      "revId": "c335244b69456c37608dd7cb7fcf8fe7d0069c31",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
