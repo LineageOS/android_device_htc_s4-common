@@ -16,6 +16,24 @@
       "revId": "dc5f38f935bbb995af07f8cd0bd834732b29b77c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bae84128_72aa19d6",
+        "filename": "rootdir/etc/init.qcom.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 334,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-03-27T20:17:08Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "bae84128_529b95c9",
+      "revId": "dc5f38f935bbb995af07f8cd0bd834732b29b77c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
