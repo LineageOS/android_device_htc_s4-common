@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba0121b8_1e6aed1a",
+        "filename": "wcnss_htc/wcnss_htc_client.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 65,
+      "author": {
+        "id": 5531
+      },
+      "writtenOn": "2014-06-12T18:23:41Z",
+      "side": 1,
+      "message": "Probably not necessary to log this here as it\u0027s reported immediately after by wcnss_service, twice. Once in setup_wcnss_parameters() and once after setup_wcnss_qmi().",
+      "revId": "5db885ca4c25f1d0100230818fffbea78a51583e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
