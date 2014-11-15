@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a122d0e_8b26b314",
+        "filename": "BoardConfigCommon.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 70,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-11-15T22:41:06Z",
+      "side": 1,
+      "message": "Alphabetically this line should go above RIL_NO_CELLINFOLIST.",
+      "revId": "099c165e233aba41b640dbec4f30db380355db97",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
