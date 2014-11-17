@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a122d0e_4e9e6457",
+        "filename": "gps/libloc_api_50001/loc_eng_agps.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 693,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-11-17T19:41:47Z",
+      "side": 1,
+      "message": "tabs",
+      "revId": "6ab56eec1e28a316e454ace91f2ffa7441402e16",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a122d0e_aea3b89d",
+        "filename": "gps/libloc_api_50001/loc_eng_agps.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 697,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-11-17T19:41:47Z",
+      "side": 1,
+      "message": "tabs, 80 chars",
+      "revId": "6ab56eec1e28a316e454ace91f2ffa7441402e16",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
