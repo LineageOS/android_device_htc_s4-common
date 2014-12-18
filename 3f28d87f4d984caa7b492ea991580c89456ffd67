@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_a2bbb80d",
+        "filename": "common-proprietary-files.txt",
+        "patchSetId": 2
+      },
+      "lineNbr": 86,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-12-18T13:49:35Z",
+      "side": 1,
+      "message": "You may only need this library, and not qseecomd. You\u0027d need a qseecomd service entry if you want to use it.",
+      "revId": "3f28d87f4d984caa7b492ea991580c89456ffd67",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
