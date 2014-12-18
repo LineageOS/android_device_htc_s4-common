@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_1fedc98b",
+        "filename": "configs/audio_policy.conf",
+        "patchSetId": 1
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2014-12-18T10:57:55Z",
+      "side": 1,
+      "message": "Low latency isn\u0027t available on s4 devices.",
+      "revId": "95626130b6c951c04a4fdd0db675d09f14c84cfc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
