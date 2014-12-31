@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7aa08908_2d0a02d3",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 211,
+      "author": {
+        "id": 5531
+      },
+      "writtenOn": "2014-12-31T06:59:02Z",
+      "side": 1,
+      "message": "This can be removed; it is already identical to the default config_wifi_tcp_buffers.",
+      "revId": "015f66b51754a0bfcbaddacdbe3daa3038a531e7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
