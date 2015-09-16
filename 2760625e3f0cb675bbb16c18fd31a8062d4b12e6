@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ff346bd7_f23a88cb",
+        "filename": "rootdir/etc/init.qcom.power.rc",
+        "patchSetId": 3
+      },
+      "lineNbr": 47,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-09-16T10:08:12Z",
+      "side": 1,
+      "message": "Something\u0027s wrong, this line isn\u0027t taking effect.",
+      "revId": "2760625e3f0cb675bbb16c18fd31a8062d4b12e6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
