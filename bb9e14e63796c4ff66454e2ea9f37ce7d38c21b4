@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7f7f9b97_1913cf68",
+        "filename": "configs/audio_policy.conf",
+        "patchSetId": 8
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-12-21T08:19:18Z",
+      "side": 1,
+      "message": "REMOTE_SUBMIX isn\u0027t necesssary for FM.",
+      "revId": "bb9e14e63796c4ff66454e2ea9f37ce7d38c21b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f7f9b97_39180b80",
+        "filename": "configs/audio_policy.conf",
+        "patchSetId": 8
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-12-21T08:19:18Z",
+      "side": 1,
+      "message": "BACK_MIC isn\u0027t necessary for FM.",
+      "revId": "bb9e14e63796c4ff66454e2ea9f37ce7d38c21b4",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
