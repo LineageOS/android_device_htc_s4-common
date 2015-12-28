@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fce034c_6f1ecd71",
+        "filename": "overlay/frameworks/base/core/res/res/values/config.xml",
+        "patchSetId": 5
+      },
+      "lineNbr": 84,
+      "author": {
+        "id": 3671
+      },
+      "writtenOn": "2015-12-28T21:52:19Z",
+      "side": 1,
+      "message": "this is no longer an overlay, you can set it with a prop: https://github.com/CyanogenMod/android_device_motorola_victara/commit/d759b7f2a9a5d5cdfe420b611ce9ef2dd1561c08",
+      "revId": "b80b1ed62074b0b423b5ee75f65b2022a5b51126",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
