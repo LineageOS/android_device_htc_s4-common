@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fce034c_9899f220",
+        "filename": "configs/audio_policy.conf",
+        "patchSetId": 10
+      },
+      "lineNbr": 36,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-01-05T05:30:16Z",
+      "side": 1,
+      "message": "OUT_FM_TUNER is not valid. Check: https://github.com/CyanogenMod/android_device_samsung_serrano-common/commit/e3a36f710967561b56a59076aa0dd8027b34eb3a for how this should work.",
+      "revId": "f21b62134ebd82f9489681817348dcd66d05f5eb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
