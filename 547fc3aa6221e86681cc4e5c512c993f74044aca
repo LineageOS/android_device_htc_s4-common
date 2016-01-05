@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fce034c_f8db567a",
+        "filename": "s4.mk",
+        "patchSetId": 9
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-01-05T04:19:10Z",
+      "side": 1,
+      "message": "S comes after R in the alphabet.",
+      "revId": "547fc3aa6221e86681cc4e5c512c993f74044aca",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
