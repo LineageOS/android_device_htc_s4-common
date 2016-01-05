@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fce034c_d8a77a4f",
+        "filename": "configs/audio_policy.conf",
+        "patchSetId": 10
+      },
+      "lineNbr": 72,
+      "author": {
+        "id": 8084
+      },
+      "writtenOn": "2016-01-05T05:37:23Z",
+      "side": 0,
+      "message": "them remove this is bad right? https://github.com/CyanogenMod/android_device_samsung_serrano-common/commit/f0a55735a3cced03c8e39cda13ba5e89988383b9 ?",
+      "range": {
+        "startLine": 68,
+        "startChar": 0,
+        "endLine": 72,
+        "endChar": 45
+      },
+      "revId": "3690cf98ab0ac07ee419730891f62be266f2a0d7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
