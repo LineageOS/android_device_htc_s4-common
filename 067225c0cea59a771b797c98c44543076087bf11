@@ -22,6 +22,30 @@
       "revId": "067225c0cea59a771b797c98c44543076087bf11",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fce034c_3ba22e9c",
+        "filename": "rootdir/etc/ueventd.qcom.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 5531
+      },
+      "writtenOn": "2016-01-08T13:25:35Z",
+      "side": 1,
+      "message": "this looks right. it is this on fireball as well",
+      "parentUuid": "3fce034c_1edacbe8",
+      "range": {
+        "startLine": 58,
+        "startChar": 5,
+        "endLine": 58,
+        "endChar": 19
+      },
+      "revId": "067225c0cea59a771b797c98c44543076087bf11",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
