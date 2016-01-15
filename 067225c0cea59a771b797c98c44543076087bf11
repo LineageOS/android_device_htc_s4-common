@@ -70,6 +70,30 @@
       "revId": "067225c0cea59a771b797c98c44543076087bf11",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1fcbff3d_a3bcc5bb",
+        "filename": "rootdir/etc/ueventd.qcom.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 8084
+      },
+      "writtenOn": "2016-01-15T03:48:59Z",
+      "side": 1,
+      "message": "with any file manager with access super user, go to /dev/ folder and search this file",
+      "parentUuid": "3fce034c_bbbdbe69",
+      "range": {
+        "startLine": 58,
+        "startChar": 5,
+        "endLine": 58,
+        "endChar": 19
+      },
+      "revId": "067225c0cea59a771b797c98c44543076087bf11",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
