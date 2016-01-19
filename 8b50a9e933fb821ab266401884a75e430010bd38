@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1fcbff3d_2656992b",
+        "filename": "rootdir/etc/init.qcom.rc",
+        "patchSetId": 13
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 14409
+      },
+      "writtenOn": "2016-01-19T08:50:45Z",
+      "side": 1,
+      "message": "Shouldn\u0027t this match with http://review.cyanogenmod.org/#/c/126011/15/rootdir/etc/init.qcom.rc ? It looks like you\u0027re missing the camera shims.",
+      "range": {
+        "startLine": 12,
+        "startChar": 4,
+        "endLine": 12,
+        "endChar": 111
+      },
+      "revId": "8b50a9e933fb821ab266401884a75e430010bd38",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
