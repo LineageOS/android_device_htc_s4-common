@@ -22,6 +22,30 @@
       "revId": "5019f81e51efd2667aeec749cc300f456485fbe1",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5faad753_e1361db5",
+        "filename": "ril/telephony/java/com/android/internal/telephony/HTCQualcommRIL.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 224,
+      "author": {
+        "id": 5531
+      },
+      "writtenOn": "2016-05-02T01:39:42Z",
+      "side": 1,
+      "message": "yeah, was debating making the change myself. will do",
+      "parentUuid": "5faad753_21bf55fc",
+      "range": {
+        "startLine": 224,
+        "startChar": 27,
+        "endLine": 224,
+        "endChar": 30
+      },
+      "revId": "5019f81e51efd2667aeec749cc300f456485fbe1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
