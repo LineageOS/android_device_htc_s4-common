@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5faad753_794c18c7",
+        "filename": "sepolicy/file_contexts",
+        "patchSetId": 13
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-05-06T02:36:31Z",
+      "side": 1,
+      "message": "Huh, what\u0027s using btlock? Isn\u0027t this for Broadcoms?",
+      "revId": "0608a5bb2dbedd67cd5d946b3bd4321f48fd7fe5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5faad753_19c72415",
+        "filename": "sepolicy/file_contexts",
+        "patchSetId": 13
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2016-05-06T02:36:31Z",
+      "side": 1,
+      "message": "Same for this, isn\u0027t this an 8064 thing?",
+      "revId": "0608a5bb2dbedd67cd5d946b3bd4321f48fd7fe5",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
