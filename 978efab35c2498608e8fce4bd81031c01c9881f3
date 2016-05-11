@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "5faad753_e0d59744",
+        "filename": "nfc/Android.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 5531
+      },
+      "writtenOn": "2016-05-11T00:23:37Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5faad753_ac955ee6",
+      "range": {
+        "startLine": 1,
+        "startChar": 2,
+        "endLine": 1,
+        "endChar": 52
+      },
+      "revId": "978efab35c2498608e8fce4bd81031c01c9881f3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5faad753_0c8ef2cf",
         "filename": "nfc/Android.mk",
         "patchSetId": 2
@@ -42,6 +66,47 @@
         "endLine": 20,
         "endChar": 54
       },
+      "revId": "978efab35c2498608e8fce4bd81031c01c9881f3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5faad753_80cce3bc",
+        "filename": "nfc/Android.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 5531
+      },
+      "writtenOn": "2016-05-11T00:23:37Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5faad753_0c8ef2cf",
+      "range": {
+        "startLine": 20,
+        "startChar": 0,
+        "endLine": 20,
+        "endChar": 54
+      },
+      "revId": "978efab35c2498608e8fce4bd81031c01c9881f3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5faad753_40c6eb9c",
+        "filename": "nfc/Android.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 5531
+      },
+      "writtenOn": "2016-05-11T00:23:37Z",
+      "side": 1,
+      "message": "Not needed",
       "revId": "978efab35c2498608e8fce4bd81031c01c9881f3",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -71,6 +136,30 @@
     },
     {
       "key": {
+        "uuid": "5faad753_a0cf9fae",
+        "filename": "nfc/Android.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 5531
+      },
+      "writtenOn": "2016-05-11T00:23:37Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5faad753_cc98da1c",
+      "range": {
+        "startLine": 24,
+        "startChar": 0,
+        "endLine": 24,
+        "endChar": 34
+      },
+      "revId": "978efab35c2498608e8fce4bd81031c01c9881f3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5faad753_8cbbc270",
         "filename": "nfc/nfc_hw.c",
         "patchSetId": 2
@@ -82,6 +171,30 @@
       "writtenOn": "2016-05-10T14:26:17Z",
       "side": 1,
       "message": "?",
+      "range": {
+        "startLine": 2,
+        "startChar": 3,
+        "endLine": 2,
+        "endChar": 53
+      },
+      "revId": "978efab35c2498608e8fce4bd81031c01c9881f3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5faad753_60c1a780",
+        "filename": "nfc/nfc_hw.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 5531
+      },
+      "writtenOn": "2016-05-11T00:23:37Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5faad753_8cbbc270",
       "range": {
         "startLine": 2,
         "startChar": 3,
