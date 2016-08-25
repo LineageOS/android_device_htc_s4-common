@@ -21,7 +21,7 @@
 #include <assert.h>
 
 #include <log/log.h>
-#include <utils/SharedBuffer.h>
+#include <SharedBuffer.h>
 #include <utils/Atomic.h>
 
 // ---------------------------------------------------------------------------
