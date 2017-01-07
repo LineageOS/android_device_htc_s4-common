@@ -19,11 +19,17 @@ include $(CLEAR_VARS)
 LOCAL_SRC_FILES := libpn544_fw.c
 LOCAL_MODULE := libpn544_fw
 LOCAL_MODULE_OWNER := nxp
-LOCAL_MODULE_PATH := $(TARGET_OUT_VENDOR)/firmware
+LOCAL_MODULE_PATH := $(TARGET_OUT_VENDOR)/lib/firmware
 LOCAL_MODULE_TAGS := optional
 LOCAL_PACK_MODULE_RELOCATIONS := false
+LOCAL_ADDITIONAL_DEPENDENCIES += libpn544_fw_symlink
 
 include $(BUILD_SHARED_LIBRARY)
+
+libpn544_fw_symlink:
+	@mkdir -p $(TARGET_OUT_VENDOR)/firmware
+	@echo -e "Generate libpn544_fw symlink"
+	$(hide) ln -sf /system/vendor/lib/firmware/libpn544_fw.so $(TARGET_OUT_VENDOR)/firmware/libpn544_fw.so
 
 include $(CLEAR_VARS)
 
