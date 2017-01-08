@@ -122,6 +122,19 @@ static char *camera_fixup_getparams(int id, const char *settings)
     }
 #endif
 
+    /* Supported video resolutions */
+    if (id == CAMERA_FACING_FRONT) {
+        params.set(android::CameraParameters::KEY_SUPPORTED_VIDEO_SIZES,
+                "720x480,352x288,320x240");
+        params.set(android::CameraParameters::KEY_PREFERRED_PREVIEW_SIZE_FOR_VIDEO,
+                "720x480");
+    } else {
+        params.set(android::CameraParameters::KEY_SUPPORTED_VIDEO_SIZES,
+                "1920x1080,1280x720,720x480,352x288,320x240");
+        params.set(android::CameraParameters::KEY_PREFERRED_PREVIEW_SIZE_FOR_VIDEO,
+                "1920x1080");
+    }
+
 #if !LOG_NDEBUG
     ALOGV("%s: fixed parameters:", __FUNCTION__);
     params.dump();
@@ -150,6 +163,19 @@ static char *camera_fixup_setparams(int id, const char *settings)
 
     /* Disable denoise */
     params.remove(android::CameraParameters::KEY_SUPPORTED_DENOISE);
+
+    /* Supported video resolutions */
+    if (id == CAMERA_FACING_FRONT) {
+        params.set(android::CameraParameters::KEY_SUPPORTED_VIDEO_SIZES,
+                "720x480,352x288,320x240");
+        params.set(android::CameraParameters::KEY_PREFERRED_PREVIEW_SIZE_FOR_VIDEO,
+                "720x480");
+    } else {
+        params.set(android::CameraParameters::KEY_SUPPORTED_VIDEO_SIZES,
+                "1920x1080,1280x720,720x480,352x288,320x240");
+        params.set(android::CameraParameters::KEY_PREFERRED_PREVIEW_SIZE_FOR_VIDEO,
+                "1920x1080");
+    }
 
 #if !LOG_NDEBUG
     ALOGV("%s: fixed parameters:", __FUNCTION__);
