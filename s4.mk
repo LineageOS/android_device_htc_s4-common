@@ -33,6 +33,9 @@ PRODUCT_PACKAGES += \
     camera.msm8960 \
     Snap
 
+# Charger
+WITH_CM_CHARGER := false
+
 # GPS
 PRODUCT_PACKAGES += \
     gps.msm8960
