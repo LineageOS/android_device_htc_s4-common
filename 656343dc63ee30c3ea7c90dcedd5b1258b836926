@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "ba3e81b7_fc736ee5",
+        "filename": "sepolicy/mm-qcamerad.te",
+        "patchSetId": 2
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2017-01-19T18:04:42Z",
+      "side": 1,
+      "message": "This seems fine",
+      "revId": "656343dc63ee30c3ea7c90dcedd5b1258b836926",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
