@@ -177,7 +177,7 @@ service akmd /system/bin/akmd
     group compass misc input
     seclabel u:r:akmd:s0
 
-service fm_dl /system/bin/setprop hw.fm.init 1
+service fm_dl /system/bin/sh /system/etc/init.qcom.fm.sh
     class late_start
     user root
     group system fm_radio
