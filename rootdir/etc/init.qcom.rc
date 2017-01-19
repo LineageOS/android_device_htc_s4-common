@@ -177,13 +177,6 @@ service akmd /system/bin/akmd
     group compass misc input
     seclabel u:r:akmd:s0
 
-service fm_dl /system/bin/setprop hw.fm.init 1
-    class late_start
-    user root
-    group system fm_radio
-    disabled
-    oneshot
-
 service hciattach /system/bin/sh /system/etc/init.qcom.bt.sh
     user bluetooth
     group qcom_oncrpc bluetooth net_bt_admin system
