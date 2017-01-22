@@ -1,1 +1,4 @@
 allow kernel block_device:blk_file write;
+allow kernel device:dir write;
+allow kernel device:dir add_name;
+allow kernel device:file create;
