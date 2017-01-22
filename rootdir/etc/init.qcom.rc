@@ -221,16 +221,16 @@ service rmt_storage /system/bin/rmt_storage modem_st1 modem_st2 recovery radio_c
     seclabel u:r:rmt_storage:s0
 
 service thermald /system/bin/thermald
-    class core
+    class main
     user root
     group root
     disabled
 
 service time_daemon /system/bin/time_daemon
+    class main
     user root
     group root
     oneshot
-    disabled
 
 service wcnss-service /system/bin/wcnss_service
     class late_start
@@ -252,18 +252,6 @@ on property:bluetooth.hciattach=true
 
 on property:bluetooth.hciattach=false
     setprop bluetooth.status off
-
-on property:init.svc.bootanim=stopped
-    start qcom-post-boot
-
-on property:persist.thermal.monitor=true
-    start thermald
-
-on property:persist.timed.enable=true
-    start time_daemon
-
-on property:ro.use_data_netmgrd=false
-    stop netmgrd
 
 on property:service.adb.root=1
     write /sys/class/android_usb/android0/enable 0
