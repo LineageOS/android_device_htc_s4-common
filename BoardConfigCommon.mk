@@ -35,7 +35,7 @@ TARGET_SPECIFIC_HEADER_PATH += device/htc/s4-common/include
 BOARD_KERNEL_BASE := 0x80400000
 BOARD_KERNEL_PAGESIZE := 2048
 BOARD_KERNEL_CMDLINE := console=none androidboot.hardware=qcom
-BOARD_MKBOOTIMG_ARGS := --ramdisk_offset 0x01700000
+BOARD_MKBOOTIMG_ARGS := --ramdisk_offset 0x01800000
 TARGET_KERNEL_SOURCE := kernel/htc/msm8960
 
 # Bluetooth
