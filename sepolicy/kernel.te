@@ -1,1 +1,2 @@
 allow kernel block_device:blk_file write;
+allow kernel onewire_device:chr_file rw_file_perms;
