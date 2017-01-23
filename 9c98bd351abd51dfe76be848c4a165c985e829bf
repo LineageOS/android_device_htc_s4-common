@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9a437d4f_4caaced5",
+        "filename": "rootdir/etc/init.qcom.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 229,
+      "author": {
+        "id": 5531
+      },
+      "writtenOn": "2017-01-23T03:36:28Z",
+      "side": 1,
+      "message": "Oh, we don\u0027t even provide the binary for time_daemon",
+      "revId": "9c98bd351abd51dfe76be848c4a165c985e829bf",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
