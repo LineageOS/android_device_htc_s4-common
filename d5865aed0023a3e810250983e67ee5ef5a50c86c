@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "9a437d4f_2ca30aa0",
+        "filename": "rootdir/etc/init.qcom.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 257,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2017-01-23T06:51:14Z",
+      "side": 0,
+      "message": "Yeah, this is orphaned.",
+      "parentUuid": "9a437d4f_8ca0b6f5",
+      "revId": "d5865aed0023a3e810250983e67ee5ef5a50c86c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9a437d4f_ac9b7ac8",
         "filename": "rootdir/etc/init.qcom.rc",
         "patchSetId": 1
@@ -30,6 +48,24 @@
       "writtenOn": "2017-01-23T03:34:28Z",
       "side": 0,
       "message": "Oh, erm, we never set prop persist.timed.enable on s4. I don\u0027t think this server has ever run.",
+      "revId": "d5865aed0023a3e810250983e67ee5ef5a50c86c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9a437d4f_0ca0468f",
+        "filename": "rootdir/etc/init.qcom.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 262,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2017-01-23T06:51:14Z",
+      "side": 0,
+      "message": "Doh",
+      "parentUuid": "9a437d4f_ac9b7ac8",
       "revId": "d5865aed0023a3e810250983e67ee5ef5a50c86c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
